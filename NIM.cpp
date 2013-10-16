@@ -31,7 +31,8 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
-	int val;
+	return 0;
+	ent val;
 	do
 	{
 		cout << endl << endl << endl;
