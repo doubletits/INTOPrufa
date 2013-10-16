@@ -35,6 +35,7 @@ int main( )
 	ent val;
 	do
 	{
+		cout << "bla!" << endl;
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
